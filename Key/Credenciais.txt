@@ -1,0 +1,2 @@
+Slime.keystore(C1905L1008)
+Alias: slime(C1905L1008)

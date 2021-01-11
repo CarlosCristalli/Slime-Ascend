@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 88d81086019f8264f91db21d61ba16ff
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Squarewave
+  fontNames:
+  - Squarewave
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 17df9d2ce4065a341950283f072ed6a5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
